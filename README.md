@@ -10,8 +10,8 @@ You gotta start somewhere!
 #### Tbenson Branch     - Tyler testing, dev, and QA Branch. :)
 
 ### Files
-Index.html
-/assets/stylesheets/styles.css
+-Index.html
+- `/assets/stylesheets/styles.css`
 
 ## ToDo
 * Setup git remotes on desktop localhosts
