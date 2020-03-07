@@ -10,7 +10,7 @@ You gotta start somewhere!
 #### Tbenson Branch     - Tyler testing, dev, and QA Branch. :)
 
 ### Files
--Index.html
+- Index.html
 - `/assets/stylesheets/styles.css`
 
 ## ToDo
