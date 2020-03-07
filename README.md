@@ -11,7 +11,7 @@ You gotta start somewhere!
 
 ### Files
 Index.html
-*Starter file for fun* 
+/assets/stylesheets/styles.css
 
 ## ToDo
 * Setup git remotes on desktop localhosts
