@@ -12,3 +12,8 @@ You gotta start somewhere!
 ### Files
 Index.html
 *Starter file for fun* 
+
+## ToDo
+* Setup git remotes on desktop localhosts
+* Correctly integrate Git with our machines and IntelliJ
+* Migrate SLMODD Dashboard Angular APplication for dev
