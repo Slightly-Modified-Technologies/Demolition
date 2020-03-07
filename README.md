@@ -4,6 +4,11 @@ A Demo Arena
 ## Slightly Modified Technologies
 You gotta start somewhere!
 
+## Branches
+### Master Branch      - We won't touch we will merge into this as file testing
+#### Gage Branch        - Gage testing, dev, and QA Branch. :)
+#### Tbenson Branch     - Tyler testing, dev, and QA Branch. :)
+
 ### Files
 Index.html
 *Starter file for fun* 
