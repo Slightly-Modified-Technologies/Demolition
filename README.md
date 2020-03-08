@@ -14,8 +14,7 @@ You gotta start somewhere!
 - `/assets/stylesheets/styles.css`
 
 ## ToDo
-* Setup git remotes on desktop localhosts
-* Correctly integrate Git with our machines and IntelliJ
-* Migrate SLMODD Dashboard Angular APplication for dev
-- [ ] An uncompleted task
-- [x] A completed task
+
+- [ ] Setup git remotes on desktop localhosts
+- [ ] Correctly integrate Git with our machines and IntelliJ
+- [ ] Migrate SLMODD Dashboard Angular APplication for dev
